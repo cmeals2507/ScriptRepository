@@ -1,0 +1,17 @@
+COMP.CODE.1
+anyone not on the COMP.CODE lists below
+
+COMP.CODE.2
+'Nishimura, Cait','Jolley, Jennifer','Garrop, Stacy','Giroux, Julie','Harris, JoAnne','Hanson, Shelley','Koh, Emily','Larsen, Libby','Lavallée, Calixia','McGinty, Anne','Piunno, Nicole','Renkmeyer, Andrea',
+
+COMP.CODE.3
+'Nishimura, Cait','Jolley, Jennifer','Alarcon, Louis Serrano','Goto','Bin Li','Fukushima, Hirokazu','Goto, Yo','Ito, Yasuhide','Koh, Emily','Lavallée, Calixia','Lee, Hyekyung','Saucedo, Richard','Thomas, Omar','Yi-De Chen','Yee, Thomas','Yagisawa, Satoshi','Zare, Roger','Moncayo, José Pablo',
+
+COMP.CODE.4
+'Nishimura, Cait','Jolley, Jennifer','Koh, Emily','Lavallée, Calixia'
+
+COMP.LIVE.1
+'Adams, John','Allen, Fred J.','Balmages, Brian','Barrett, Roland','Barton, Steve','Bates, Mason','Bin Li','Biedenbender, David','Bryant, Steven','Camphouse, Mark','Carnahan, John','Carroll, Fergal','Caudill, J.A','Ching-chu Hi','Cordice, Terrell','Corigliano, John','Daehn, Larry','Danyeq, Steve','Daugherty, Michael','Daugherty, Nathan','Davis, Michale Craig','Dawson, Jay','de Meij, Johan','Dello Joio, Norman','der Roost, Jan Van','Dooley, Paul','Duncan, Owen','Dzubay, David','Ferran, Ferrer','Forrest, Dan','Fukushima, Hirokazu','Garrop, Stacy','George, Ryan','Gilbert, Jay','Gillingham, David','Gilreath, Leslie','Giroux, Julie','Gjeilo, Ola','Gorb, Adam','Grantham, Donald','Hanson, Shelley','Harris, JoAnne','Hazo, Samuel','Hegeman, Derrick','Holsinger, David','Ito, Yasuhide','Jolley, Jennifer','Koh, Emily','Larsen, Libby','Lee, Hyekyung','Lenz, Patrick','Lovrien, David','Mackey, John','Mahr, Timothy','Markowski, Michael','McGinty, Anne','Duncan, Owen','Wallace, Tom','Saucedo, Richard','Munn, Zae','Navarro, Oscar','Newman, Jonathan','Nishimura, Cait','Piunno, Nicole','Puckett, Joel','Rautavaarra, Einjuhani','Renkmeyer, Andrea','Saucedo, Richard','Salfelder, Kathryn','Sabzghabaei, Daniel Reza','Runestad, Jake','Schoenberg, Adam','Sheldon, Robert','Silverman, Adam','Silvestri, Alan','Smith, Robert W.','Spears, Jared','Stephenson, James M.','Stevens, John','Standridge, Randall D.','Thomas, Omar','Ticheli, Frank','Tower, Joan','Turner, Jess Langston','Battisti','Weller, Travis J.','Whitacre, Eric','Williams, John','Yee, Thomas','Yi-De Chen','Young, Charles Rochester','Zare, Roger','Zimmer, Hans','Goto','Goto, Yo',
+
+COMP.LIVE.2
+anyone not on the COMP.LIVE.1 list
