@@ -19,7 +19,7 @@ def cliffs_delta(l1, l2):
         'medium': 0.33,
         'large': 0.474
     }
-    size = 'negligible' if d < thresholds['small'] else 'small' if d < thresholds['medium'] else 'medium' if d < thresholds['large'] else 'large'
+    size = 'negligible' if abs(d) < thresholds['small'] else 'small' if abs(d) < thresholds['medium'] else 'medium' if abs(d) < thresholds['large'] else 'large'
     
     return d, size
 
