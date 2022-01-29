@@ -3,7 +3,7 @@ from scipy.io import wavfile as wav
 from scipy.fftpack import fft
 from scipy.fft import irfft
 import numpy as np
-rate, data = wav.read('/Users/corymeals/Desktop/University of Houston 4.wav')
+rate, data = wav.read('/Users/corymeals/Desktop/University of Houston 4.m4a')
 new_sig = irfft(data)
 #fft_out = fft(data)
 #%matplotlib inline
